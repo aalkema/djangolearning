@@ -1,0 +1,8 @@
+db.sqlite3
+_env
+*.pyc
+*~
+settings_local.py
+staticfiles
+
+node_modules/
